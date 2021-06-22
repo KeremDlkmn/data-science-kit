@@ -1,5 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/KeremDlkmn/data-science-kit)](https://github.com/KeremDlkmn/data-science-kit/blob/main/LICENSE)
 [![Build: Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/KeremDlkmn/data-science-kit)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/KeremDlkmn/data-science-kit)
 [![pypi: v0.0.1](https://img.shields.io/badge/pypi-v0.0.1-yellow.svg)](https://pypi.org/project/data-science-kit/)
 
 ![data-science-kit](https://user-images.githubusercontent.com/25768758/122969833-ca25e100-d395-11eb-8811-990965bc0985.png)
