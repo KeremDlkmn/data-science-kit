@@ -80,3 +80,9 @@ KITBAG is a helpful library where you can find basic data science functions unde
     * Where Encoder
     * Onehot Encoder
 
+# Installation
+The easiest way to install *data-science-kit* is to download it from [PyPI](https://pypi.org/project/data-science-kit/)
+
+```python
+pip install data-science-kit
+```
