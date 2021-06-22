@@ -19,3 +19,22 @@ The easiest way to install *data-science-kit* is to download it from [PyPI](http
 ```python
 pip install data-science-kit
 ```
+# How to Use?
+It will be sufficient to derive an object from the classes in the DataScienceKit class. Please see below;
+
+For Measurement Units
+```python
+measurement_units = DataScienceKit.MeasurementUnits()
+```
+
+For Exploratory Data Analysis
+```python
+exploratory_data_analysis = DataScienceKit.ExploratoryDataAnalysis()
+```
+
+For Data Operations
+```python
+data_operations = DataScienceKit.DataOperations()
+```
+
+For detailed usage information, go to [KITBAG Wiki](https://github.com/KeremDlkmn/data-science-kit/wiki)
