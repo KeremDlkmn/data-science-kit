@@ -1,8 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![pypi: v0.0.1](https://img.shields.io/badge/pypi-v0.0.10-yellow.svg)](https://pypi.org/project/data-science-kit/)
 [![Build: Passing](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/KeremDlkmn/data-science-kit)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/KeremDlkmn/data-science-kit)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/data-science-kit)
+
 
 # Data Science Kit - Kitbag
 KITBAG is a helpful library where you can find basic data science functions under three main headings. Three main headings are given below. The titles are given below;
