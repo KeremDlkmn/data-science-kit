@@ -27,7 +27,7 @@ pip install data-science-kit
 # How to Use?
 It will be sufficient to derive an object from the classes in the DataScienceKit class. Please see below;
 
-Import DataScienceKit class
+Import DataScienceKit module
 
 ```python
 from data_science_kit import DataScienceKit
